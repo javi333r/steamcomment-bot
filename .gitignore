@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+.session/
+.vscode/
+.idea/
+*.log
+.DS_Store
+npm-debug.log*
+yarn-error.log*
+*.maFile
+
