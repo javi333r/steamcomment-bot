@@ -4,7 +4,7 @@ Herramienta automática para publicar comentarios en perfiles de Steam con retra
 
 ---
 
-## Empezar rápido en tu cuenta (tsumiki555)
+## Empezar rápido en tu cuenta 
 
 Quieres publicar desde tu cuenta con vanity URL: `https://steamcommunity.com/id/xxxxxx/`.
 
