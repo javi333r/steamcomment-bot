@@ -11,7 +11,7 @@ Quieres publicar desde tu cuenta con vanity URL: `https://steamcommunity.com/id/
 Este bot actualmente no acepta vanity URLs (`/id/usuario`) como destino. Necesitas convertir cada destino a su SteamID64 o usar URL del tipo `/profiles/<steamid64>`.
 
 Pasos para obtener tu SteamID64 (o el de cualquier perfil):
-1. Abre https://steamid.io/lookup/tsumiki555
+1. Abre https://steamid.io/lookup/xxxxx
 2. Copia el valor de SteamID64 (17 dígitos), por ejemplo: `7656119XXXXXXXXXX`.
 3. Puedes usar ese ID en `targets.csv` o con `--profile`.
 
