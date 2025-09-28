@@ -6,7 +6,7 @@ Herramienta automática para publicar comentarios en perfiles de Steam con retra
 
 ## Empezar rápido en tu cuenta (tsumiki555)
 
-Quieres publicar desde tu cuenta con vanity URL: `https://steamcommunity.com/id/tsumiki555/`.
+Quieres publicar desde tu cuenta con vanity URL: `https://steamcommunity.com/id/xxxxxx/`.
 
 Este bot actualmente no acepta vanity URLs (`/id/usuario`) como destino. Necesitas convertir cada destino a su SteamID64 o usar URL del tipo `/profiles/<steamid64>`.
 
